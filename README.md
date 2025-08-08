@@ -1,9 +1,6 @@
 # Hi, Im NYALAWE 
 🧠 Computer science student at the University of Dar Es Salaam CoICT<br>
-👨🏿‍💻 I design Front end and develop web based applications\websites <br>
-💹 I am also a digital marketing expert <br>
-Im also Practising and training to become a FULL STACK DEVELOPER <br>
-<br>
+👨🏿‍💻 I design Full stack application and webapps projects <br>
 # Welcome To My Profile 
 
 # 💫 About Me:
